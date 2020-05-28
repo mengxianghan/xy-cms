@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20f364"],{b352:function(n,p,s){n.exports=s.p+"static/img/ant-design-vue.1cd2f688.svg"}}]);

@@ -1,0 +1,35 @@
+{
+  "name": "xuanyu-cms",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "build:reprot": "vue-cli-service build --mode production --report"
+  },
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@tinymce/tinymce-vue": "^3.2.0",
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "ant-design-vue": "^1.5.4",
+    "axios": "^0.19.2",
+    "compression-webpack-plugin": "^3.1.0",
+    "js-md5": "^0.7.3",
+    "node-sass": "^4.13.1",
+    "nprogress": "^0.2.0",
+    "sass-loader": "^8.0.2",
+    "tinymce": "^5.2.0",
+    "vue-ls": "^3.2.1",
+    "vue-router": "^3.1.6",
+    "vue-template-compiler": "^2.6.11",
+    "vuex": "^3.1.3"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
