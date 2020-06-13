@@ -1,8 +1,5 @@
-import Vue from 'vue'
-
-
 const state = {
-    name: 'xuanyu CMS',
+    name: 'xy cms',
     site: 'zh',
     logo: require('@/assets/images/logo.svg')
 }

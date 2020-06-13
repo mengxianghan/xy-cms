@@ -8,7 +8,7 @@ import xui from '@/components'
 import VueStorage from "vue-ls"
 import api from '@/api'
 import * as util from '@/utils/util'
-import '@/directives/action'
+import '@/directive/action'
 import '@/assets/style/index.scss'
 
 Vue.use(antd)
